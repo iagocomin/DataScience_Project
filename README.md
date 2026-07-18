@@ -84,50 +84,6 @@ Além disso, foi gerado o arquivo de submissão para comparação dos resultados
 
 ---
 
-## 📁 Estrutura do projeto
-
-```
-Predicting-Student-Health-Risk/
-
-│── README.md
-│── Predicting_Student_Health_Risk.ipynb
-│── requirements.txt
-│
-├── images/
-│   ├── class_distribution.png
-│   ├── confusion_matrix.png
-│   └── results.png
-│
-└── submission.csv
-```
-
----
-
-## 🚀 Como executar
-
-1. Clone este repositório;
-
-2. Instale as dependências:
-
-```bash
-pip install -r requirements.txt
-```
-
-3. Execute o notebook ou os scripts Python.
-
----
-
-## 📌 Melhorias futuras
-
-* Comparar diferentes algoritmos de classificação;
-* Ajuste de hiperparâmetros utilizando Grid Search;
-* Avaliação por meio de validação cruzada;
-* Inclusão de métricas como Precision, Recall e F1-Score;
-* Análise da importância das variáveis;
-* Teste de modelos baseados em Ensemble Learning.
-
----
-
 ## 👨‍💻 Autor
 
 **Iago Comin**
